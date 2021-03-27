@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorSecondaryText</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryText</item>
+        <item name="colorAccent">@color/colorDivider</item>
+
+        <item name="toolbar">@color/colorSecondaryText</item>
+        <item name="title_text">@color/colorTextOrIcon</item>
+        <item name="card_detail_text">@color/colorDivider</item>
+        <item name="fab">@color/colorPrimaryLight</item>
+        <item name="setting_item_text">@color/colorTextOrIcon</item>
+        <item name="card_title">@color/colorPrimaryLight</item>
+        <item name="card_desc">@color/colorTextOrIcon</item>
+        <item name="card_detail_recycler">@color/colorSecondaryText</item>
+        <item name="tarns">@android:color/transparent</item>
+        <item name="setting_icon">@color/colorPrimaryLight</item>
+    </style>
+    <style name="textview_menu">
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:drawableTint">@color/colorSecondaryText</item>
+        <item name="android:textColor">@color/colorSecondaryText</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+</resources>

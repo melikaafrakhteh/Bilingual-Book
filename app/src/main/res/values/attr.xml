@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="toolbar" format="color"/>
+    <attr name="title_text" format="color"/>
+    <attr name="card_detail_text" format="color"/>
+    <attr name="fab" format="color"/>
+    <attr name="setting_item_text" format="color"/>
+    <attr name="card_title" format="color"/>
+    <attr name="card_detail_recycler" format="color"/>
+    <attr name="card_desc" format="color"/>
+    <attr name="tarns" format="color"/>
+    <attr name="setting_icon" format="color"/>
+
+
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book</string>
+
+    <string name="app_main_toolbar">
+     5 Morning habits to increase productivity
+    </string>
+
+    <string name="app_title_one">
+     introduction
+    </string>
+    <string name="app_title_two">
+Seven minutes of exercise
+    </string>
+    <string name="app_title_three">
+Start your day green
+    </string>
+    <string name="app_title_for">
+Choose three successes of the day
+    </string>
+    <string name="app_title_five">
+Limit your calendar
+    </string>
+    <string name="app_title_six">
+Start again after lunch
+    </string>
+
+    <string name="app_description_one">
+       Most of us work too many hours ; 40 , 50 or even 60 hours a week ; but it is possible to do quality work only in a short portion of the day with regard to cases that cause distractions , including online entertainment , eating habits and poor time management .
+In this paper , we point to five practical steps that , if you include them in your morning schedule , will optimize your effectiveness in the workplace and your productivity will be maintained throughout the day .
+    </string>
+    <string name="app_description_two">
+yes , only a minute or so ! why ? because it is so short that it does not have any effect on other small - scale works , and it is so long that any remaining laziness is removed from the previous night .
+there are many compliance methods you can use ; but my favorite way is the one - minute compliance that is also available for it . this application will apply all the main muscle groups by application of compliance .
+           </string>
+    <string name="app_description_three">
+We all know that breakfast is the most important meal and it is easy to get the donuts , a bowl of corn flakes , an egg sandwich or a glass of yogurt to activate body metabolism .
+While all these options are sometimes good , you will be surprised by the morning energy of a green juice . Eating healthy snacks at the beginning of the day will take less time compared to testing the bread and eating it with a low - fat cream cheese .
+I do that quick and simple . In a minute an apple , an orange , an orange , a bunch of spinach , half of cucumbers , all juice or coconut water available in a blender . The juice is cheap , simple and energy .
+   </string>
+    <string name="app_description_for">
+        When you expect him to get ready , the conversation with your wife or a family member who asks how you can visualize your day .
+Complete the three things you would like to do in the next 12 hours and feel that you had a successful day . Not all days , surely , they do not include epic successes ; but the use of this strategy makes progress .
+            </string>
+    <string name="app_description_five">
+One of the biggest mistakes that people make in the workplace is that they do not convert their work lists into a list of effective projects with a time frame . Experience has shown that people who have mastered the skill are more likely to hand over their work on time .
+This is simple : for each of the big tasks of your list , specify an approximate time range in your list , then add up to 33 % more time to ensure timely action .
+If a project is a few days or depends on other tasks , convert it into small practical parts . Set a time frame to the planning and the second or third period to do the job .
+This simple method will help you take up your responsibility and focus once again on things that are priority . Often , a small distraction will ruin everything in the morning ; you should not let a client email you from your schedule for that day .
+    </string>
+    <string name="app_description_six">
+    Take 15 minutes after lunch to focus on daily work , which is a type of professional meditation . Get rid of your computer . Put it out , go in the conference room and think about the things you are doing in the rest of the day .
+See how you have got the list you have got in the morning . Are you ahead of the program ? Or is it from the program? You will see that this 15 minutes will help you see why you deviate from the path , what has caused you and helps to find a new rhythm to be productive throughout the day .
+Practice this simple formula for a week and I am sure you will be satisfied with the result .
+    </string>
+
+    <string name="app_menu_search_txt">Search</string>
+    <string name="app_menu_setting_txt">Settings</string>
+    <string name="app_menu_about_txt">Reference site</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_message">Loading information …</string>
+    <string name="app_theme_text">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="app_language_text">Language</string>
+    <string name="farsi">Persian</string>
+    <string name="english">English</string>
+    <string name="app_size_text">Font Size</string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="end"
+    android:orientation="vertical"
+    android:background="?attr/colorSurface">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:background="?attr/colorSurface">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="380dp">
+
+                <ImageView
+                    android:id="@+id/nav_imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/pic"
+                    android:scaleType="fitXY"
+                    android:adjustViewBounds="true"/>
+                <ImageView
+                    android:id="@+id/nav_imageView_bg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/menu_image"
+                    android:scaleType="fitXY"
+                    android:adjustViewBounds="true"/>
+
+                <TextView
+                    android:id="@+id/nav_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="6dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginBottom="3dp"
+                    android:text="@string/app_main_toolbar"
+                    android:textColor="@color/colorTextOrIcon"
+                    android:textSize="22sp"
+                    android:textStyle="bold"/>
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/nav_menu_settings"
+                style="@style/textview_menu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_settings_black_24dp"
+                android:text="@string/app_menu_setting_txt" />
+
+            <TextView
+                android:id="@+id/nav_menu_about"
+                style="@style/textview_menu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_laptop_windows_black_24dp"
+                android:text="@string/app_menu_about_txt" />
+        </LinearLayout>
+    </com.google.android.material.navigation.NavigationView>
+
+
+</LinearLayout>
